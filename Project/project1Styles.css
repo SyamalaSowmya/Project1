@@ -1,0 +1,145 @@
+body{
+    /* padding: 5px 0px 0px 50px ; */
+    
+    text-align: center;
+    justify-content: center;
+}
+#container{
+    display: flex;
+    background-color: whitesmoke;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.ver_imgs img
+{
+    width: 90px;
+    height: 90px;
+    display: block;
+    margin: 5px;
+    border-radius: 10px;
+}
+.mid_img{
+    width: 250px;
+    margin-left:20px;
+}
+.mid_img img{
+    width: 450px;
+    border-radius: 30px;
+    height: 420px;
+    margin: 5px;
+}
+.description{
+    width: 600px;  
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.navs{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.navs p{
+    display: inline;
+    font-weight: 600;
+}
+.menus{
+    padding-top: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.navs button{
+    border-radius: 20px;
+    padding: 3px 30px;
+    background-color: orange;
+    border-color: orange;
+}
+#desc{
+   
+}
+.sec1{
+    background-color:  rgb(208, 208, 235);
+    
+}
+.ver_imgs{
+    margin-left:90px;
+}
+#des{
+    text-align: left;
+    margin-right:20px;
+}
+.sec11{
+    display: flex;
+}
+#tag{
+    margin-left: 10px;
+}
+.button input{
+    border-radius: 30px ;
+    padding:5px 20px;
+
+}
+.b3{
+    margin-left: 0px;
+}
+.button{
+    text-align: left;
+    margin-left:90px;
+}
+#an{
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+#navi {
+    display: flex;
+    margin-left: 50px;
+    align-items: center;
+}
+.det{
+    text-align: left;
+    margin-left: 50px;
+    display: flex;
+}
+#fo{
+    color: rgb(66, 64, 64);
+}
+
+#drop{
+    margin-right: 90px;
+}
+.star{
+    display: flex;
+    margin-left: 50px;
+    width:300px;
+    height:40px;
+}
+.star li{
+    list-style-type: none;
+    letter-spacing: 5px;
+    font-size: larger;
+    color: red;
+}
+#sec22{
+    display: flex;
+    justify-content: space-between;
+}
+
+#love{
+    margin-left: 475px;
+    font-size: xx-large;
+    color:red;
+    margin-top: 20px;
+}
+#link{
+    margin-top: 5px;
+    
+}
+#s{
+    letter-spacing: 0em;
+    color:black;
+    font-size:medium;
+}
+
